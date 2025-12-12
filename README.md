@@ -1,2 +1,2 @@
 # edu-platform
-Simple educational platform (Python + HTML
+Simple educational platform (Python + HTML)
